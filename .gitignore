@@ -1,1 +1,5 @@
 node_modules/
+.idea/
+debug.log
+package-lock.json
+report.json

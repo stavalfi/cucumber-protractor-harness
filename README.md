@@ -1,3 +1,8 @@
+# Source repository of this start: https://github.com/mallorym/cucumber-protractor-harness
+
+#I updated all the dependencies to latest.
+
+
 # cucumber-protractor-harness
 Simple starter project for incorporating cucumber with protractor. This project also has an example of using page objects with your tests.
 

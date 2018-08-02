@@ -12,9 +12,9 @@
     "chai-string": "^1.4.0",
     "cucumber": "^4.2.1",
     "gulp": "^3.9.1",
-    "gulp-angular-protractor": "^1.1.1",
-    "protractor": "^5.3.2",
-    "protractor-cucumber-framework": "^5.0.0"
+    "gulp-angular-protractor": "^1.2.0",
+    "protractor": "^5.4.0",
+    "protractor-cucumber-framework": "^6.0.0"
   },
   "scripts": {
     "test": "protractor"
